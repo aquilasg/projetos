@@ -1,0 +1,15 @@
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\bin\Debug\net6.0\uri1097.exe
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\bin\Debug\net6.0\uri1097.deps.json
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\bin\Debug\net6.0\uri1097.runtimeconfig.json
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\bin\Debug\net6.0\uri1097.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\bin\Debug\net6.0\uri1097.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.csproj.AssemblyReference.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.GeneratedMSBuildEditorConfig.editorconfig
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.AssemblyInfoInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.AssemblyInfo.cs
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.csproj.CoreCompileInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\refint\uri1097.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\uri1097.genruntimeconfig.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1097\uri1097\obj\Debug\net6.0\ref\uri1097.dll

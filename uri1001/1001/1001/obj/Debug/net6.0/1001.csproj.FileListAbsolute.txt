@@ -1,0 +1,30 @@
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\bin\Debug\net6.0\1001.exe
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\bin\Debug\net6.0\1001.deps.json
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\bin\Debug\net6.0\1001.runtimeconfig.json
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\bin\Debug\net6.0\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\bin\Debug\net6.0\1001.pdb
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.csproj.AssemblyReference.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.AssemblyInfoInputs.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.AssemblyInfo.cs
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.csproj.CoreCompileInputs.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\refint\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.pdb
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\1001.genruntimeconfig.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\URI Online Judge\1001\1001\1001\obj\Debug\net6.0\ref\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\bin\Debug\net6.0\1001.exe
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\bin\Debug\net6.0\1001.deps.json
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\bin\Debug\net6.0\1001.runtimeconfig.json
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\bin\Debug\net6.0\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\bin\Debug\net6.0\1001.pdb
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.csproj.AssemblyReference.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.AssemblyInfoInputs.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.AssemblyInfo.cs
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.csproj.CoreCompileInputs.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\refint\1001.dll
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.pdb
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\1001.genruntimeconfig.cache
+C:\Users\aquil\Desktop\Cursos Programação\1-Lógica de programação\Projetos\uri1001\1001\1001\obj\Debug\net6.0\ref\1001.dll

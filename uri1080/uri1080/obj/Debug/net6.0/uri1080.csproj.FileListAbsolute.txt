@@ -1,0 +1,15 @@
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\bin\Debug\net6.0\uri1080.exe
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\bin\Debug\net6.0\uri1080.deps.json
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\bin\Debug\net6.0\uri1080.runtimeconfig.json
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\bin\Debug\net6.0\uri1080.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\bin\Debug\net6.0\uri1080.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.csproj.AssemblyReference.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.GeneratedMSBuildEditorConfig.editorconfig
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.AssemblyInfoInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.AssemblyInfo.cs
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.csproj.CoreCompileInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\refint\uri1080.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\uri1080.genruntimeconfig.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de Programação\Projetos\uri1080\uri1080\obj\Debug\net6.0\ref\uri1080.dll

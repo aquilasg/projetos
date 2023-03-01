@@ -1,0 +1,15 @@
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\bin\Debug\net6.0\uri1065.exe
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\bin\Debug\net6.0\uri1065.deps.json
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\bin\Debug\net6.0\uri1065.runtimeconfig.json
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\bin\Debug\net6.0\uri1065.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\bin\Debug\net6.0\uri1065.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.csproj.AssemblyReference.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.GeneratedMSBuildEditorConfig.editorconfig
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.AssemblyInfoInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.AssemblyInfo.cs
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.csproj.CoreCompileInputs.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\refint\uri1065.dll
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.pdb
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\uri1065.genruntimeconfig.cache
+D:\Áquilas\Desk Acer\Cursos Programação\1-Lógica de programação\Projetos\uri1065\uri1065\obj\Debug\net6.0\ref\uri1065.dll
